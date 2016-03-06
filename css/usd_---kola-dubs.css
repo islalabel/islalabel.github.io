@@ -1,0 +1,94 @@
+.version.usd____kola_dubs /* version checker */
+{
+	color: #000000;
+	background-color: #AD6109;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 495px;
+	min-height: 331px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 449px 149px 16px;
+}
+
+#u132-7
+{
+	z-index: 2;
+	width: 495px;
+	min-height: 67px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+}
+
+#pu137
+{
+	width: 0.01px;
+	margin-top: 5px;
+}
+
+#u137
+{
+	z-index: 9;
+	width: 214px;
+	min-height: 158px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u154
+{
+	z-index: 11;
+	width: 214px;
+	min-height: 158px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 219px;
+}
+
+#u143
+{
+	z-index: 10;
+	width: 282px;
+	min-height: 47px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 4px;
+	margin-top: 54px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

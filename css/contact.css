@@ -1,0 +1,63 @@
+.version.contact /* version checker */
+{
+	color: #0000F5;
+	background-color: #6A236F;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 262px;
+	min-height: 78.94999999999999px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 26px 673px 395.05px 25px;
+}
+
+#u151-4
+{
+	z-index: 2;
+	width: 262px;
+	min-height: 21px;
+	background-color: transparent;
+	line-height: 16px;
+	font-size: 13px;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+}
+
+#u152-6
+{
+	z-index: 6;
+	width: 181px;
+	min-height: 51px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Courier New, Courier, monospace;
+	margin-top: 7px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
