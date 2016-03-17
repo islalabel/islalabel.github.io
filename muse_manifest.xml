@@ -1,23 +1,21 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.isla.site" resolutions="1x" timestamp="1457304032645">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.isla.site" resolutions="1x" timestamp="1458172995039">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="contact.css" crc="4117373807" ref="contact"/>
-    <file name="index.css" crc="3773222074" ref="index"/>
-    <file name="juniper-systems---st.css" crc="421779579" ref="juniper-systems---st"/>
-    <file name="usd_---kola-dubs.css" crc="11362569" ref="usd.---kola-dubs"/>
-    <file name="d_-tiffany---rarez.css" crc="88718147" ref="d.-tiffany---rarez"/>
+    <file name="index.css" crc="3998919410" ref="index"/>
+    <file name="juniper-systems---st.css" crc="3896950063" ref="juniper-systems---st"/>
+    <file name="usd_---kola-dubs.css" crc="84963705" ref="usd.---kola-dubs"/>
+    <file name="d_-tiffany---rarez.css" crc="54663410" ref="d.-tiffany---rarez"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:d.-tiffany---rarez:juniper-systems---st:usd.---kola-dubs:contact"/>
-    <file name="museutils.js" crc="275725342" ref="index:d.-tiffany---rarez:juniper-systems---st:usd.---kola-dubs:contact"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:d.-tiffany---rarez:juniper-systems---st:usd.---kola-dubs:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:d.-tiffany---rarez:juniper-systems---st:usd.---kola-dubs"/>
+    <file name="museutils.js" crc="275725342" ref="index:d.-tiffany---rarez:juniper-systems---st:usd.---kola-dubs"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:d.-tiffany---rarez:juniper-systems---st:usd.---kola-dubs"/>
   </folder>
   <folder name="images">
     <file name="untitled-2-crop-u87.jpg" crc="518065917" ref="index"/>
   </folder>
-  <file name="index.html" crc="3823050687" seo="true" mt="1457303941678" redirect="true"/>
-  <file name="d.-tiffany---rarez.html" crc="398167607" seo="true" mt="1457303310107" redirect="true"/>
-  <file name="juniper-systems---st.html" crc="275008569" seo="true" mt="1457303396788" redirect="true"/>
-  <file name="usd.---kola-dubs.html" crc="495350599" seo="true" mt="1457303175510" redirect="true"/>
-  <file name="contact.html" crc="4250663289" seo="true" mt="1457226579831" redirect="true"/>
+  <file name="index.html" crc="4171751194" seo="true" mt="1458170773472" redirect="true"/>
+  <file name="d.-tiffany---rarez.html" crc="23998823" seo="true" mt="1458172943225" redirect="true"/>
+  <file name="juniper-systems---st.html" crc="434499659" seo="true" mt="1458172984434" redirect="true"/>
+  <file name="usd.---kola-dubs.html" crc="4050985198" seo="true" mt="1458172872780" redirect="true"/>
 </manifest>
